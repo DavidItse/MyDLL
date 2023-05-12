@@ -1,0 +1,197 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\SALT]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALT"
+
+[HKEY_CLASSES_ROOT\SALT\CLSID]
+@="{B8613D94-E4A4-40E4-8B00-FD594198DC4B}"
+
+[HKEY_CLASSES_ROOT\CLSID\{B8613D94-E4A4-40E4-8B00-FD594198DC4B}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALT"
+
+[HKEY_CLASSES_ROOT\CLSID\{B8613D94-E4A4-40E4-8B00-FD594198DC4B}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALT"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{B8613D94-E4A4-40E4-8B00-FD594198DC4B}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALT"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{B8613D94-E4A4-40E4-8B00-FD594198DC4B}\ProgId]
+@="SALT"
+
+[HKEY_CLASSES_ROOT\CLSID\{B8613D94-E4A4-40E4-8B00-FD594198DC4B}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\SALTCalculations]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALTCalculations"
+
+[HKEY_CLASSES_ROOT\SALTCalculations\CLSID]
+@="{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}"
+
+[HKEY_CLASSES_ROOT\CLSID\{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALTCalculations"
+
+[HKEY_CLASSES_ROOT\CLSID\{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALTCalculations"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALTCalculations"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}\ProgId]
+@="SALTCalculations"
+
+[HKEY_CLASSES_ROOT\CLSID\{AE0EB74F-E41F-4DF9-A447-27E0143F3B37}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\SALTGeneralCalcs]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALTGeneralCalcs"
+
+[HKEY_CLASSES_ROOT\SALTGeneralCalcs\CLSID]
+@="{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}"
+
+[HKEY_CLASSES_ROOT\CLSID\{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.SALTGeneralCalcs"
+
+[HKEY_CLASSES_ROOT\CLSID\{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALTGeneralCalcs"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.SALTGeneralCalcs"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}\ProgId]
+@="SALTGeneralCalcs"
+
+[HKEY_CLASSES_ROOT\CLSID\{EB8EC73C-62ED-42E9-B4D8-BF422B72EB20}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\Utilities]
+@="HubSyncWorkpapers.HubSyncWorkpapers.Utilities"
+
+[HKEY_CLASSES_ROOT\Utilities\CLSID]
+@="{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}"
+
+[HKEY_CLASSES_ROOT\CLSID\{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.Utilities"
+
+[HKEY_CLASSES_ROOT\CLSID\{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.Utilities"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.Utilities"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}\ProgId]
+@="Utilities"
+
+[HKEY_CLASSES_ROOT\CLSID\{17EA9424-8CDE-44F8-9C0A-0851AD39EFB5}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\Colors]
+@="HubSyncWorkpapers.HubSyncWorkpapers.KeyCodes"
+
+[HKEY_CLASSES_ROOT\Colors\CLSID]
+@="{A8AF8FB7-8EAC-4467-AD13-116AC9202777}"
+
+[HKEY_CLASSES_ROOT\CLSID\{A8AF8FB7-8EAC-4467-AD13-116AC9202777}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.KeyCodes"
+
+[HKEY_CLASSES_ROOT\CLSID\{A8AF8FB7-8EAC-4467-AD13-116AC9202777}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.KeyCodes"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{A8AF8FB7-8EAC-4467-AD13-116AC9202777}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.KeyCodes"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{A8AF8FB7-8EAC-4467-AD13-116AC9202777}\ProgId]
+@="Colors"
+
+[HKEY_CLASSES_ROOT\CLSID\{A8AF8FB7-8EAC-4467-AD13-116AC9202777}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\Colors]
+@="HubSyncWorkpapers.HubSyncWorkpapers.Colors"
+
+[HKEY_CLASSES_ROOT\Colors\CLSID]
+@="{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}]
+@="HubSyncWorkpapers.HubSyncWorkpapers.Colors"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.Colors"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}\InprocServer32\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.Colors"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}\ProgId]
+@="Colors"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C7A0F06-CD56-40F1-969B-8E8DB0233D5E}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\Record\{C8398F48-087F-3B00-A22B-1BB61DAC028E}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.Constants"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{0C6AE696-E6D2-385A-B829-581B1F6A0B31}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.XlCalculation"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{7239363C-841C-34D8-BEA9-A063828638F4}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.XlCellType"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{22B66CD2-8B64-3E68-995A-54B8C8655FD2}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.XlDirection"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{91DBF9D3-06D4-3AA8-8B03-41061FB7E6C3}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.XlReferenceStyle"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{6295C3E3-F038-3BEA-A7DC-F7FC10E13FF1}\1.0.0.0]
+"Class"="Microsoft.Office.Interop.Excel.XlSheetVisibility"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{D8C2CA39-9E74-3B54-8A3F-8AC425D3E23C}\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.ConstantsGlobalsEnums+HubSyncColors"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\Record\{B5A8FF76-E23B-3924-9AA7-3167EB21DDE8}\1.0.0.0]
+"Class"="HubSyncWorkpapers.HubSyncWorkpapers.ConstantsGlobalsEnums+GetKeyStateKeyboardCodes"
+"Assembly"="HubSyncWorkpapers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
